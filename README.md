@@ -4,7 +4,7 @@
 ```
 git clone [url-to-code] macsim
 gdown --id 1c_O7L3191u7ddNTrqv-pNidWxbGnEZV1
-tar -zxvf mascim_traces.tar.gz
+tar -zxvf macsim_traces.tar.gz
 cp macsim_traces/trace_file_list macsim/bin/
 ```
 
